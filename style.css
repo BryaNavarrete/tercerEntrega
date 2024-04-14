@@ -1,0 +1,28 @@
+
+.imgProductos {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.colorBoton {
+    color: white;
+    background-color:  #00205d;
+}
+
+.colorBoton:hover {
+    background-color: #2bb4e2;
+    color: white;
+}
+
+.text-center {
+    background-color: #00205d;
+    color: white;
+}
